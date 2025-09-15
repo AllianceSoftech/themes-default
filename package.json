@@ -1,7 +1,7 @@
 {
   "name": "default",
   "version": "2.0.1",
-  "description": "Default theme for Aikeedo",
+  "description": "Default theme for SkillPediaAI",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heyaikeedo/themes-default.git"
+    "url": "https://github.com/AllianceSoftech/themes-default.git"
   },
-  "author": "Aikeedo Team",
+  "author": "Alliance Softech Team",
   "license": "SEE LICENSE IN <LICENSE>",
   "bugs": {
-    "url": "https://github.com/heyaikeedo/themes-default/issues",
-    "email": "support@aikeedo.com"
+    "url": "https://github.com/AllianceSoftech/themes-default/issues",
+    "email": "support@alliancesoftech.com"
   },
-  "homepage": "https://github.com/heyaikeedo/themes-default#readme",
+  "homepage": "https://github.com/AllianceSoftech/themes-default#readme",
   "devDependencies": {
     "archiver": "^7.0.1",
     "autoprefixer": "^10.4.20",
